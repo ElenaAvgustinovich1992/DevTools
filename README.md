@@ -1,4 +1,4 @@
-Видео выполнения дз можно посмотреть тут
+Видео выполнения дз можно посмотреть [тут](https://github.com/lenavgustinovich/DevTools/blob/main/video/clideo_editor_b00c6da4f2934530957b57174ef9d8b3.mp4)
 
 По 37 пункту, у меня `Json Viewer` не отработал и я установила `JsonView` 
 

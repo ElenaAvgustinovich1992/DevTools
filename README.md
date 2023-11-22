@@ -1,5 +1,4 @@
-Видео выполнения дз можно посмотреть [тут](https://drive.google.com/file/d/1Ky7DBZzwcqU_a2mWII6KjeP1EsFUeimm/view?usp=sharing)
-
+Видео выполнения дз можно посмотреть [тут](https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%221kMyqxw9zN2XDUd0IXSoxOLVxkeYENi8S%22%5D,%22action%22:%22open%22,%22resourceKeys%22:%7B%7D%7D)
 По 37 пункту, у меня `Json Viewer` не отработал и я установила `JsonView` 
 
 ## Открыть сайт http://itcareer.pythonanywhere.com/
